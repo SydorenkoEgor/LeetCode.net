@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search a 2D Matrix", "Searc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Occurrences After Bigram", "Occurrences After Bigram\Occurrences After Bigram.csproj", "{959636EA-B57B-4817-9CD0-7A5A6A12F35D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kids With the Greatest Number of Candies", "Kids With the Greatest Number of Candies\Kids With the Greatest Number of Candies.csproj", "{A4F6B536-8675-4E17-9A46-C7A41E9A034D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,18 @@ Global
 		{959636EA-B57B-4817-9CD0-7A5A6A12F35D}.Release|x64.Build.0 = Release|Any CPU
 		{959636EA-B57B-4817-9CD0-7A5A6A12F35D}.Release|x86.ActiveCfg = Release|Any CPU
 		{959636EA-B57B-4817-9CD0-7A5A6A12F35D}.Release|x86.Build.0 = Release|Any CPU
+		{A4F6B536-8675-4E17-9A46-C7A41E9A034D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4F6B536-8675-4E17-9A46-C7A41E9A034D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4F6B536-8675-4E17-9A46-C7A41E9A034D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A4F6B536-8675-4E17-9A46-C7A41E9A034D}.Debug|x64.Build.0 = Debug|Any CPU
+		{A4F6B536-8675-4E17-9A46-C7A41E9A034D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A4F6B536-8675-4E17-9A46-C7A41E9A034D}.Debug|x86.Build.0 = Debug|Any CPU
+		{A4F6B536-8675-4E17-9A46-C7A41E9A034D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4F6B536-8675-4E17-9A46-C7A41E9A034D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4F6B536-8675-4E17-9A46-C7A41E9A034D}.Release|x64.ActiveCfg = Release|Any CPU
+		{A4F6B536-8675-4E17-9A46-C7A41E9A034D}.Release|x64.Build.0 = Release|Any CPU
+		{A4F6B536-8675-4E17-9A46-C7A41E9A034D}.Release|x86.ActiveCfg = Release|Any CPU
+		{A4F6B536-8675-4E17-9A46-C7A41E9A034D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
