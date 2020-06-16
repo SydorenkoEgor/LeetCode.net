@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shuffle the Array", "LeetCodeIssue\Shuffle the Array.csproj", "{E0C10BDB-BA72-4A26-ACF2-9D1CC1E026DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Defanging an IP Address", "Defanging an IP Address\Defanging an IP Address.csproj", "{8D22A35E-C834-4B4C-8D8F-F5D790217F56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Defanging an IP Address", "Defanging an IP Address\Defanging an IP Address.csproj", "{8D22A35E-C834-4B4C-8D8F-F5D790217F56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search a 2D Matrix", "Search a 2D Matrix\Search a 2D Matrix.csproj", "{D608DBE9-45DE-4615-B5A2-5D5CE4BB58F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,18 @@ Global
 		{8D22A35E-C834-4B4C-8D8F-F5D790217F56}.Release|x64.Build.0 = Release|Any CPU
 		{8D22A35E-C834-4B4C-8D8F-F5D790217F56}.Release|x86.ActiveCfg = Release|Any CPU
 		{8D22A35E-C834-4B4C-8D8F-F5D790217F56}.Release|x86.Build.0 = Release|Any CPU
+		{D608DBE9-45DE-4615-B5A2-5D5CE4BB58F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D608DBE9-45DE-4615-B5A2-5D5CE4BB58F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D608DBE9-45DE-4615-B5A2-5D5CE4BB58F3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D608DBE9-45DE-4615-B5A2-5D5CE4BB58F3}.Debug|x64.Build.0 = Debug|Any CPU
+		{D608DBE9-45DE-4615-B5A2-5D5CE4BB58F3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D608DBE9-45DE-4615-B5A2-5D5CE4BB58F3}.Debug|x86.Build.0 = Debug|Any CPU
+		{D608DBE9-45DE-4615-B5A2-5D5CE4BB58F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D608DBE9-45DE-4615-B5A2-5D5CE4BB58F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D608DBE9-45DE-4615-B5A2-5D5CE4BB58F3}.Release|x64.ActiveCfg = Release|Any CPU
+		{D608DBE9-45DE-4615-B5A2-5D5CE4BB58F3}.Release|x64.Build.0 = Release|Any CPU
+		{D608DBE9-45DE-4615-B5A2-5D5CE4BB58F3}.Release|x86.ActiveCfg = Release|Any CPU
+		{D608DBE9-45DE-4615-B5A2-5D5CE4BB58F3}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
