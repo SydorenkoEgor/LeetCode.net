@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0CD3ECEC-A2AC-4D57-A6B4-8915BA11D115}</ProjectGuid>
+    <ProjectGuid>{4B22EEDB-E5F2-4B7A-9F99-0962DF6CA5D5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Reducing_Dishes</RootNamespace>
-    <AssemblyName>Reducing Dishes</AssemblyName>
+    <RootNamespace>Add_Strings</RootNamespace>
+    <AssemblyName>Add Strings</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
