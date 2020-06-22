@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DCED1203-13A1-48E0-BFDA-E0516CFB8791}</ProjectGuid>
+    <ProjectGuid>{F5BEAE8E-3276-44FD-AD5D-59C0208DC0FF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Leaf_Similar_Trees</RootNamespace>
-    <AssemblyName>Leaf-Similar Trees</AssemblyName>
+    <RootNamespace>Number_of_Dice_Rolls_With_Target_Sum</RootNamespace>
+    <AssemblyName>Number of Dice Rolls With Target Sum</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

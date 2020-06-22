@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DCED1203-13A1-48E0-BFDA-E0516CFB8791}</ProjectGuid>
+    <ProjectGuid>{10D7F9EB-D116-47B0-8B6D-055F2238DA54}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Leaf_Similar_Trees</RootNamespace>
-    <AssemblyName>Leaf-Similar Trees</AssemblyName>
+    <RootNamespace>Left_Leavs_Sum</RootNamespace>
+    <AssemblyName>Left-Leavs-Sum</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

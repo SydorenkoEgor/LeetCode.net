@@ -28,7 +28,7 @@ public class TreeNode {
             dfs(root1,leavs1);
             dfs(root2, leavs2);
 
-            var result = leavs1.SequenceEqual(leavs2);
+           return leavs1.SequenceEqual(leavs2);
         }
 
         void dfs(TreeNode root, List<int> values)

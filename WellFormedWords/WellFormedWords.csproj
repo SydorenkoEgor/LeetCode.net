@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DCED1203-13A1-48E0-BFDA-E0516CFB8791}</ProjectGuid>
+    <ProjectGuid>{CC48FF6C-EC6D-4AFB-92EF-B3812E5BEE2B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Leaf_Similar_Trees</RootNamespace>
-    <AssemblyName>Leaf-Similar Trees</AssemblyName>
+    <RootNamespace>WellFormedWords</RootNamespace>
+    <AssemblyName>WellFormedWords</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
